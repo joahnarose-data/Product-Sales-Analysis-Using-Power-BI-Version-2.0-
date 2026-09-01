@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an improved and visualized version of my previous SQL sales analysis project involving approximately **50,000 sales transactions** from a multichannel product dataset. The project extends the previous analysis by transforming key findings into an interactive Power BI dashboard covering sales performance, products and customers, returns, sales channels, and operational activities.
+This project is an improved and visualized version of my previous SQL sales analysis project involving approximately **50,000 sales transactions** from a **multichannel product dataset**. The project extends the previous analysis by transforming key findings into an interactive Power BI dashboard covering sales performance, products and customers, returns, sales channels, and operational activities.
 
 ## Objectives
 - Determine monthly sales revenue trends.
