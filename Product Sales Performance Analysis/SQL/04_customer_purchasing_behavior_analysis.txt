@@ -1,0 +1,14 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 4: CUSTOMER PURCHASING BEHAVIOR
+-- =====================================
+
+-- 1. What percentage of purchases are online versus in-store?
+-- 2. Does product category influence purchase channel?
+-- 3. Which categories are most frequently purchased online?
+-- 4. Which categories are most frequently purchased in-store?
+-- 5. Does purchase quantity influence channel choice?
+-- 6. Do customers spend more online or in-store?
+-- 7. Which countries prefer online purchases?
+-- 8. Which countries prefer in-store purchases?

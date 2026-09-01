@@ -1,0 +1,14 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 8: RETURNS ANALYSIS
+-- =====================================
+
+-- 1. What is the overall return rate?
+-- 2. Which categories have the highest return rates?
+-- 3. Which products have the highest return rates?
+-- 4. Are online purchases returned more often than in-store purchases?
+-- 5. What is the return rate per category for online purchases?
+-- 6. What is the return rate per category for in-store purchases?
+-- 7. Which countries have the highest return rates?
+-- 8. Does discount level influence return rate?

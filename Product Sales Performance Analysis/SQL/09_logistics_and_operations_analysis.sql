@@ -1,0 +1,15 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 9: LOGISTICS AND OPERATIONS ANALYSIS
+-- =====================================
+
+-- 1. Which shipment provider is used most often?
+-- 2. What is the ranking of shipment providers?
+-- 3. Which shipment provider handles the most online orders?
+-- 4. Which shipment provider handles the most in-store orders?
+-- 5. Which shipment providers have the highest return rates?
+-- 6. Which warehouse locations process the highest order volume?
+-- 7. Which warehouse locations generate the highest revenue?
+-- 8. Which warehouse locations experience the highest return rates?
+-- 9. Which categories are most commonly stocked in each warehouse?

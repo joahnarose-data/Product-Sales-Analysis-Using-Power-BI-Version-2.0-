@@ -1,0 +1,12 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 6: DISCOUNT ANALYSIS
+-- =====================================
+
+-- 1. What is the average discount per category?
+-- 2. Which categories receive the highest discounts?
+-- 3. Does higher discount lead to higher sales quantity?
+-- 4. Which products are most frequently discounted?
+-- 5. Which categories rely most heavily on discounts?
+-- 6. What is the relationship between discount and revenue?

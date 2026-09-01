@@ -1,0 +1,19 @@
+-- =====================================
+-- SQL PROJECT 1: PRODUCT SALES ANALYSIS
+-- SECTION 3: SALES PERFORMANCE ANALYSIS
+-- =====================================
+
+/* OVERVIEW:
+
+*/
+
+-- 1. What is the total revenue generated?
+-- 2. Which categories generate the highest revenue?
+-- 3. Which products generate the highest revenue?
+-- 4. Which countries generate the highest revenue?
+-- 5. What are the monthly sales trends?
+-- 6. What are the yearly sales trends?
+-- 7. Which products generate the highest revenue within each category?
+-- 8. What is the ranking of products per country?
+-- 9. What is the ranking of products per country and year?
+-- 10. Which categories contribute the largest percentage of total revenue?

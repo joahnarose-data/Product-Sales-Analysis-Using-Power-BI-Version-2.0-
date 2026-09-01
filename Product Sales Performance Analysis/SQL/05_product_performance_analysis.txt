@@ -1,0 +1,12 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 5: PRODUCT PERFORMANCE
+-- =====================================
+
+-- 1. Which products have the highest sales volume?
+-- 2. Which products generate the highest revenue?
+-- 3. Which products are top-ranked within each category?
+-- 4. Which products perform consistently across multiple countries?
+-- 5. Which categories contain the highest number of products sold?
+-- 6. Which categories are underperforming?

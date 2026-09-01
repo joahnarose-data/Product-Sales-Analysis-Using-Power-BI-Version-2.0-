@@ -1,0 +1,12 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 7: PAYMENT ANALYSIS
+-- =====================================
+
+-- 1. What is the most preferred payment method?
+-- 2. What percentage of orders use each payment method?
+-- 3. Do payment preferences differ by country?
+-- 4. Do payment preferences differ by category?
+-- 5. Which payment methods are associated with larger purchases?
+-- 6. Which payment methods are most common in online purchases?

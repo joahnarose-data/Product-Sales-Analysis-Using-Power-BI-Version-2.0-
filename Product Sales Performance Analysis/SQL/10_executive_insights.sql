@@ -1,0 +1,12 @@
+-- =====================================
+-- SQL PROJECT 1
+-- PRODUCT SALES ANALYSIS
+-- SECTION 10: EXECUTE INSIGHTS
+-- =====================================
+
+-- 1. What are the top revenue-generating categories?
+-- 2. What are the top-performing countries?
+-- 3. Which products drive the majority of revenue?
+-- 4. Which categories experience the highest return rates?
+-- 5. Which shipment providers perform best?
+-- 6. Which customer behaviors differ between online and in-store channels?
