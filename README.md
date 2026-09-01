@@ -149,7 +149,7 @@ Product Sales Performance Analysis/
 
 
 ### Product & Customer Analysis
-![Product & Customer Analysis](Screenshots/02_product_customer_analysis.png)
+![Product and Customer Analysis](Screenshots/02_product_customer_analysis.png)
 
 
 ### Returns & Revenue Impact
