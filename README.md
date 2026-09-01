@@ -144,30 +144,30 @@ Product Sales Performance Analysis/
 ## Dashboard Preview
 
 ### Product Sales Performance
-![Product Sales Performance](Screenshots/01_product_sales_performance.png)
+![Product_Sales_Performance](Screenshots/01_product_sales_performance.png)
 
 
 
 ### Product & Customer Analysis
-![Product and Customer Analysis](Screenshots/02_product_customer_analysis.png)
+![Product_&_Customer_Analysis](Screenshots/02_product_customer_analysis.png)
 
 
 ### Returns & Revenue Impact
-![Returns & Revenue Impact](Screenshots/03_returns_revenue_impact.png)
+![Returns_&_Revenue_Impact](Screenshots/03_returns_revenue_impact.png)
 
 
 
 ### Sales Channel & Operations
-![Sales Channel & Operations](Screenshots/04_sales_channel_operations.png)
+![Sales_Channel_&_Operations](Screenshots/04_sales_channel_operations.png)
 
 
 ### Warehouse & Order Operations
-![Warehouse & Order Operations](Screenshots/05_warehouse_order_operations.png)
+![Warehouse_&_Order_Operations](Screenshots/05_warehouse_order_operations.png)
 
 
 
 ### Business Insights & Recommendations
-![Business Insights & Recommendations](Screenshots/06_business_insights_recommendations.png)
+![Business_Insights_&_Recommendations](Screenshots/06_business_insights_recommendations.png)
 
 
 
