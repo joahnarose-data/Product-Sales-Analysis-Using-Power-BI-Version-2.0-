@@ -172,31 +172,24 @@ Product Sales Performance Analysis/
 
 ## Dashboard Preview
 
-### Product Sales Performance
-![Product Sales Performance](Product_Sales_Performance_Analysis/Screenshots/_01_product_sales_performance.png)
-<img src="Screenshots/01_product_sales_performance.png" alt="Product Sales Performance" width="500">
+![Product Sales Performance](Product%20Sales%20Performance%20Analysis/Screenshots/01_product_sales_performance.png)
 
 
-### Product & Customer Analysis
-![Product & Customer Analysis](Product_Sales_Performance_Analysis/Screenshots/02_product_customer_analysis.png)
+![Product & Customer Analysis](Product%20Sales%20Performance%20Analysis/Screenshots/02_product_customer_analysis.png)
 
 
-### Returns & Revenue Impact
-![Returns & Revenue Impact](Screenshots/03_returns_revenue_impact.png)
+![Returns & Revenue Impact](Product%20Sales%20Performance%20Analysis/Screenshots/03_returns_revenue_impact.png)
 
 
 
-### Sales Channel & Operations
-![Sales Channel & Operations](Screenshots/04_sales_channel_operations.png)
+![Sales Channel & Operations](Product%20Sales%20Performance%20Analysis/Screenshots/04_sales_channel_operations.png)
 
 
-### Warehouse & Order Operations
-![Warehouse & Order Operations](Screenshots/05_warehouse_order_operations.png)
+![Warehouse & Order Operations](Product%20Sales%20Performance%20Analysis/Screenshots/05_warehouse_order_operations.png)
 
 
 
-### Business Insights & Recommendations
-![Business Insights & Recommendations](Screenshots/06_business_insights_recommendations.png)
+![Business Insights & Recommendations](Product%20Sales%20Performance%20Analysis/Screenshots/06_business_insights_recommendations.png)
 
 
 
