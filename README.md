@@ -33,7 +33,7 @@ Key preparation steps included:
 - Identification and separate classification of negative transactions.
 - Preparation of relevant fields for measures, slicers, and visualizations.
 
-The Power BI model follows a star schema, with FactSales as the central transaction-level fact table and dimension tables providing analytical context.
+The Power BI model follows a **star schema**, with **FactSales** as the central transaction-level fact table and dimension tables providing analytical context.
 
 Key dimensions include:
 
