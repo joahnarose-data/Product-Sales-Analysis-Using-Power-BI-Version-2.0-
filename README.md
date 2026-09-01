@@ -173,7 +173,7 @@ Product Sales Performance Analysis/
 ## Dashboard Preview
 
 ### Product Sales Performance
-![Product Sales Performance](Screenshots/01_product_sales_performance.png)
+![Product Sales Performance](Product_Sales_Performance_Analysis/Screenshots/_01_product_sales_performance.png)
 <img src="Screenshots/01_product_sales_performance.png" alt="Product Sales Performance" width="500">
 
 
