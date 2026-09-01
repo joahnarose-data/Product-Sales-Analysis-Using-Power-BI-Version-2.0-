@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an improved and visualized version of my previous SQL sales analysis project involving approximately 50,000 sales transactions from a multichannel product dataset. The project extends the previous analysis by transforming key findings into an interactive Power BI dashboard covering sales performance, products and customers, returns, sales channels, and operational activities.
+This project is an improved and visualized version of my previous SQL sales analysis project involving approximately **50,000 sales transactions** from a multichannel product dataset. The project extends the previous analysis by transforming key findings into an interactive Power BI dashboard covering sales performance, products and customers, returns, sales channels, and operational activities.
 
 ## Objectives
 - Determine monthly sales revenue trends.
@@ -17,7 +17,7 @@ This project is an improved and visualized version of my previous SQL sales anal
 - Star Schema Modeling
 - Dataset
 
-The dataset was sourced from Kaggle and contains approximately 50,000 sales transactions involving online and in-store transactions. It includes information on products, categories, countries, sales channels, payment methods, shipping providers, warehouses, order priorities, returns, quantities, prices, discounts, and transaction dates.
+The dataset was sourced from **Kaggle** and contains approximately **50,000 sales transactions involving online and in-store** transactions. It includes information on **products**, **categories**, **countries**, **sales channels**, **payment methods**, **shipping providers**, **warehouses**, **order priorities**, **returns**, **quantities**, **prices**, **discounts**, and **transaction dates**.
 
 The dataset is synthetic; therefore, the findings are intended to demonstrate analytical methodology rather than represent the actual performance of a real company.
 
@@ -53,13 +53,13 @@ The model enables consistent filtering and cross-analysis across the dashboard.
 
 The analysis uses multiple measures to evaluate performance from different perspectives:
 
-- Positive Revenue — revenue from positive sales transactions, excluding negative transactions from the primary sales analysis.
-- Calculated Revenue — revenue calculated across the transaction data.
-- Invoice Count — transaction volume based on distinct invoices.
-- Average Order Value (AOV) — average revenue generated per invoice.
-- Return Rate — frequency of transactions associated with returns.
-- Returned Revenue — financial value associated with returned transactions.
-- Shipping and Operational Measures — used to compare shipping and warehouse/order activity.
+- **Positive Revenue** — revenue from positive sales transactions, excluding negative transactions from the primary sales analysis.
+- **Calculated Revenue** — revenue calculated across the transaction data.
+- **Invoice Count** — transaction volume based on distinct invoices.
+- **Average Order Value (AOV)** — average revenue generated per invoice.
+- **Return Rate** — frequency of transactions associated with returns.
+- **Returned Revenue** — financial value associated with returned transactions.
+- **Shipping and Operational Measures** — used to compare shipping and warehouse/order activity.
 
 The analytical approach followed:
 
@@ -106,17 +106,17 @@ Summarizes major findings and provides recommendations based on the observed res
 
 ## Key Findings
 
-- Electronics ranked highest in positive revenue among categories, while Apparel ranked lowest.
-- Germany generated the highest revenue among the analyzed countries, while Italy ranked lowest.
-- White Mug ranked first in both positive revenue and AOV, while product rankings differed when evaluated by invoice count.
-- Stationery had the highest category return rate, while Furniture had the highest returned revenue.
-- Backpack had the highest product return rate, while USB Cable had the highest returned revenue.
-- Online ranked highest in positive revenue and invoice count, while In-store had the highest AOV.
-- Bank Transfer ranked first across positive revenue, invoice count, and AOV, although the payment-method results were relatively close.
-- FedEx ranked highest in invoice count and total shipping cost, while Royal Mail had the highest average shipping cost per invoice.
-- Amsterdam recorded the highest invoice count among warehouse locations.
-- Medium order priority ranked highest in invoice count, positive revenue, and AOV.
-- 2,489 negative transactions, representing approximately 5.0% of the 49,782 transaction records, were identified and separately classified.
+- **Electronics** ranked highest in positive revenue among categories, while **Apparel** ranked lowest.
+- **Germany** generated the highest revenue among the analyzed countries, while **Italy** ranked lowest.
+- **White Mug** ranked first in both **positive revenue and AOV**, while product rankings differed when evaluated by invoice count.
+- **Stationery** had the highest category return rate, while **Furniture** had the highest returned revenue.
+- **Backpack** had the **highest product return rate**, while **USB Cable** had the **highest returned revenue**.
+- **Online** ranked **highest in positive revenue and invoice count**, while **In-store** had the **highest AOV**.
+- **Bank Transfer** ranked first across **positive revenue**, **invoice count**, and **AOV**, although the payment-method results were relatively close.
+- **FedEx** ranked highest in **invoice count** and **total shipping cost**, while **Royal Mail** had the **highest average shipping cost per invoice**.
+- **Amsterdam** recorded the highest invoice count among warehouse locations.
+- **Medium order priority** ranked highest in invoice count, positive revenue, and AOV.
+- **2,489 negative transactions**, representing approximately **5.0%** of the **49,782 transaction records**, were identified and separately classified.
 
 ## Business Recommendations
 
@@ -129,10 +129,10 @@ Based on the observed results, the analysis recommends:
 - Investigating potential relationships between discounts and revenue, AOV, invoice count, and return activity.
 
 ## Data Quality & Limitations
-- The dataset is synthetic and sourced from Kaggle.
+- The dataset is synthetic and sourced from **Kaggle**.
 - Duplicate records were inspected and removed where necessary.
 - A category data-quality issue required replacement with a cleaned category field.
-- 2,489 negative transactions (~5.0% of transaction records) were identified and analyzed separately.
+- **2,489 negative transactions** (~5.0% of transaction records) were identified and analyzed separately.
 - Transaction records and distinct invoices represent different measures.
 - Several metrics rely on defined analytical assumptions, including Positive Revenue, Return Rate, and Returned Revenue.
 - Observed relationships represent patterns or associations and do not establish causation.
@@ -142,14 +142,18 @@ Based on the observed results, the analysis recommends:
 
 Product Sales Performance Analysis/
 │
+|
 ├── README.md
 │
+|
 ├── Power BI/
 │   └── Product Sales Performance.pbix
 │
+|
 ├── SQL/
 │   └── Product Sales Analysis.sql
 │
+|
 ├── Screenshots/
 │   ├── 01-product-sales-performance.png
 │   ├── 02-product-customer-analysis.png
@@ -158,9 +162,11 @@ Product Sales Performance Analysis/
 │   ├── 05-warehouse-order-operations.png
 │   └── 06-business-insights-recommendations.png
 │
+|
 ├── Reports/
 │   └── Product Sales Performance - Paginated Report.pdf
 │
+|
 └── Documentation/
     └── Product Sales Performance - Case Study.pdf
 
