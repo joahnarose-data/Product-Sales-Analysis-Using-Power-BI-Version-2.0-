@@ -140,35 +140,30 @@ Based on the observed results, the analysis recommends:
 
 ## Project Files
 
-Product Sales Performance Analysis/
-│
-|
-├── README.md
-│
-|
-├── Power BI/
-│   └── Product Sales Performance.pbix
-│
-|
-├── SQL/
-│   └── Product Sales Analysis.sql
-│
-|
-├── Screenshots/
-│   ├── 01-product-sales-performance.png
-│   ├── 02-product-customer-analysis.png
-│   ├── 03-returns-revenue-impact.png
-│   ├── 04-sales-channel-operations.png
-│   ├── 05-warehouse-order-operations.png
-│   └── 06-business-insights-recommendations.png
-│
-|
-├── Reports/
-│   └── Product Sales Performance - Paginated Report.pdf
-│
-|
-└── Documentation/
-    └── Product Sales Performance - Case Study.pdf
+```mermaid
+flowchart TD
+    A[Product Sales Performance Analysis]
+
+    A --> B[Data Analysis]
+    A --> C[Power BI Dashboard]
+    A --> D[Project Documentation]
+
+    B --> B1[PostgreSQL]
+    B --> B2[Product Sales Analysis SQL]
+
+    C --> C1[Product Sales Performance]
+    C --> C2[Product & Customer Analysis]
+    C --> C3[Returns & Revenue Impact]
+    C --> C4[Sales Channel & Operations]
+    C --> C5[Warehouse & Order Operations]
+    C --> C6[Business Insights & Recommendations]
+
+    D --> D1[README.md]
+    D --> D2[Paginated Report]
+    D --> D3[Case Study]
+
+    C --> E[Dashboard Screenshots]
+```
 
 ## Dashboard Preview
 
