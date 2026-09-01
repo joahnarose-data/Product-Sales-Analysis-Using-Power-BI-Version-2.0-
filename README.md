@@ -174,7 +174,7 @@ Product Sales Performance Analysis/
 
 ### Product Sales Performance
 ![Product Sales Performance](Screenshots/01_product_sales_performance.png)
-
+<img src="Screenshots/01_product_sales_performance.png" alt="Product Sales Performance" width="500">
 
 
 ### Product & Customer Analysis
