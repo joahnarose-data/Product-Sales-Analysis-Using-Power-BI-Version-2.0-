@@ -1,4 +1,4 @@
-# Product Sales Performance Analysis
+# Product Sales Analysis Using Power BI (Version 2.0)
 
 ## Project Overview
 
@@ -63,7 +63,16 @@ The analysis uses multiple measures to evaluate performance from different persp
 
 The analytical approach followed:
 
-Business Question → Select Metric → Analyze by Dimension → Compare Results → Identify Patterns → Validate Results → Interpret Findings → Develop Recommendations
+```mermaid
+flowchart LR
+    A[Business Question] --> B[Select Metric]
+    B --> C[Analyze by Dimension]
+    C --> D[Compare Results]
+    D --> E[Identify Patterns]
+    E --> F[Validate Results]
+    F --> G[Interpret Findings]
+    G --> H[Develop Recommendations]
+```
 
 This approach was used to avoid relying on a single metric when evaluating performance.
 
@@ -71,27 +80,27 @@ This approach was used to avoid relying on a single metric when evaluating perfo
 
 The Power BI dashboard consists of six pages:
 
-1. Product Sales Performance
+**1. Product Sales Performance**
 
 Provides an overview of sales performance across products, markets, and time using revenue, invoice count, and AOV.
 
-2. Product & Customer Analysis
+**2. Product & Customer Analysis**
 
 Compares product, category, and country performance across revenue, invoice count, and AOV.
 
-3. Returns & Revenue Impact
+**3. Returns & Revenue Impact**
 
 Examines return rate and returned revenue across products and categories.
 
-4. Sales Channel & Operations
+**4. Sales Channel & Operations**
 
 Compares sales channels, payment methods, and shipping providers using revenue, invoice count, AOV, and shipping metrics.
 
-5. Warehouse & Order Operations
+**5. Warehouse & Order Operations**
 
 Analyzes warehouse activity, order priorities, and negative transaction activity.
 
-6. Business Insights & Recommendations
+**6. Business Insights & Recommendations**
 
 Summarizes major findings and provides recommendations based on the observed results.
 
@@ -132,42 +141,56 @@ Based on the observed results, the analysis recommends:
 ## Project Files
 
 Product Sales Performance Analysis/
+│
 ├── README.md
+│
 ├── Power BI/
 │   └── Product Sales Performance.pbix
+│
 ├── SQL/
 │   └── Product Sales Analysis.sql
+│
 ├── Screenshots/
+│   ├── 01-product-sales-performance.png
+│   ├── 02-product-customer-analysis.png
+│   ├── 03-returns-revenue-impact.png
+│   ├── 04-sales-channel-operations.png
+│   ├── 05-warehouse-order-operations.png
+│   └── 06-business-insights-recommendations.png
+│
 ├── Reports/
+│   └── Product Sales Performance - Paginated Report.pdf
+│
 └── Documentation/
+    └── Product Sales Performance - Case Study.pdf
 
 ## Dashboard Preview
 
 ### Product Sales Performance
-![Product_Sales_Performance](Screenshots/01_product_sales_performance.png)
+![Product Sales Performance](Screenshots/01_product_sales_performance.png)
 
 
 
 ### Product & Customer Analysis
-![Product_&_Customer_Analysis](Screenshots/02_product_customer_analysis.png)
+![Product & Customer Analysis](Screenshots/02_product_customer_analysis.png)
 
 
 ### Returns & Revenue Impact
-![Returns_&_Revenue_Impact](Screenshots/03_returns_revenue_impact.png)
+![Returns & Revenue Impact](Screenshots/03_returns_revenue_impact.png)
 
 
 
 ### Sales Channel & Operations
-![Sales_Channel_&_Operations](Screenshots/04_sales_channel_operations.png)
+![Sales Channel & Operations](Screenshots/04_sales_channel_operations.png)
 
 
 ### Warehouse & Order Operations
-![Warehouse_&_Order_Operations](Screenshots/05_warehouse_order_operations.png)
+![Warehouse & Order Operations](Screenshots/05_warehouse_order_operations.png)
 
 
 
 ### Business Insights & Recommendations
-![Business_Insights_&_Recommendations](Screenshots/06_business_insights_recommendations.png)
+![Business Insights & Recommendations](Screenshots/06_business_insights_recommendations.png)
 
 
 
