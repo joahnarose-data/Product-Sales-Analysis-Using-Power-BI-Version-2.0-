@@ -186,6 +186,9 @@ flowchart TD
 
 ![Business Insights & Recommendations](Product%20Sales%20Performance%20Analysis/Screenshots/06_business_insights_recommendations.png)
 
+## Project Documentation
+
+For a detailed discussion of the data preparation, data modeling, analytical approach, key findings, business recommendations, and project limitations, see the full project case study:
 
 
 ## Conclusion
