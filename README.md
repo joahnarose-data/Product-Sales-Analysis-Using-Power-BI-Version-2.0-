@@ -190,7 +190,7 @@ flowchart TD
 
 For a detailed discussion of the data preparation, data modeling, analytical approach, key findings, business recommendations, and project limitations, see the full project case study:
 
-[View the Product Sales Performance Analysis Case Study](Product_Sales_Performance_Analysis/Documentation/Product_Sales_Performance_Analysis_Case_Study.pdf)
+[View the Product Sales Performance Analysis Case Study](Product%20Sales%20Performance%20Analysis/Documentation/Product_Sales_Performance_Analysis_Case_Study.pdf)
 
 
 ## Conclusion
